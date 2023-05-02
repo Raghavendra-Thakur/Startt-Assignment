@@ -1,0 +1,26 @@
+body{
+    background-color: #ffffff;
+}
+
+.textstyle{
+    color: #003f73;
+}
+
+.textstyle_per{
+    color: #008cff;
+}
+
+
+input[type="text"]{
+    background-color:#c2e3ff;
+}
+
+
+.chartbox{
+    height: 300px;
+    width: 300px;
+}
+.chartbox1{
+    height: 300px;
+    width: 150px;
+}
